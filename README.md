@@ -4,6 +4,6 @@ Crypto faucets
 - Monad Testnet
     - [Monad.xyz](https://testnet.monad.xyz/)
     - [Talentum +0.3 $MON](https://monad.talentum.id/projects/loot-go)
-    - [Mozi.finance](https://app.mozi.finance/)
     - [Gas.zip](https://www.gas.zip/faucet/monad)
+    - [Mozi.finance](https://app.mozi.finance/)
     - [Thirdweb.com](https://thirdweb.com/monad-testnet)
