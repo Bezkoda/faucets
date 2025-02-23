@@ -8,3 +8,4 @@ Crypto faucets
     - [Mozi.finance](https://app.mozi.finance/)
     - [Thirdweb.com](https://thirdweb.com/monad-testnet)
 - [Humanity.org](https://faucet.testnet.humanity.org/)
+- [Gokite.ai](https://faucet.gokite.ai/)
