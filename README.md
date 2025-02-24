@@ -7,5 +7,6 @@ Crypto faucets
     - [Gas.zip](https://www.gas.zip/faucet/monad)
     - [Mozi.finance](https://app.mozi.finance/)
     - [Thirdweb.com](https://thirdweb.com/monad-testnet)
+    - [Morkie.xyz](https://faucet.morkie.xyz/monad)
 - [Humanity.org](https://faucet.testnet.humanity.org/)
 - [Gokite.ai](https://faucet.gokite.ai/)
